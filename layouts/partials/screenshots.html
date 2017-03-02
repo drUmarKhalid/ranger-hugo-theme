@@ -1,0 +1,18 @@
+	<div id="fh5co-product-screenshots" data-section="screenshots">
+
+		<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeIn">
+				<div class="col-md-12 section-heading text-center">
+					<h2>{{ with .Site.Params.screenshots.title }}{{ . | markdownify }}{{ end }}</h2>
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3">
+							<h3>{{ with .Site.Params.screenshots.description }}{{ . | markdownify }}{{ end }}</h3>
+						</div>
+					</div>
+				</div>
+			</div>
+		<div class="owl-carousel-center">
+		{{ range .Site.Params.screenshots.item }}
+            <div class="animate-box" data-animate-effect="fadeIn"><img src="{{ .image }}"></div>
+		{{ end }}
+		</div>
+	</div>
