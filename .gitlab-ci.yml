@@ -10,3 +10,16 @@ test:
   artifacts:
     paths:
     - exampleSite/public
+
+pages:
+  stage: deploy
+  script:
+  - 'ln -s `pwd` exampleSite/themes/ranger'
+  - cd exampleSite
+  - hugo
+  - mv public ../public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
