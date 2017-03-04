@@ -10,7 +10,7 @@ https://computerfr33k.gitlab.io/ranger-hugo-theme
 Inside the folder of your Hugo site run:
 
     $ cd themes
-    $ git clone https://gitlab.com/computerfr33k/ranger-hugo-theme
+    $ git clone https://github.com/computerfr33k/ranger-hugo-theme.git
 
 For more information read the official [setup guide](https://gohugo.io/overview/installing/) of Hugo.
 
@@ -21,7 +21,7 @@ After installing the Ranger Theme successfully it requires a just a few more ste
 
 ### The config file
 
-Take a look inside the [`exampleSite`](https://gitlab.com/computerfr33k/ranger-hugo-theme/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](https://gitlab.com/computerfr33k/ranger-hugo-theme/blob/master/exampleSite/config.toml). To use it, copy the [`config.toml`](https://gitlab.com/computerfr33k/ranger-hugo-theme/blob/master/exampleSite/config.toml) in the root folder of your Hugo site. Feel free to change the strings in this theme.
+Take a look inside the [`exampleSite`](https://github.com/computerfr33k/ranger-hugo-theme/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](https://github.com/computerfr33k/ranger-hugo-theme/blob/master/exampleSite/config.toml). To use it, copy the [`config.toml`](https://github.com/computerfr33k/ranger-hugo-theme/blob/master/exampleSite/config.toml) in the root folder of your Hugo site. Feel free to change the strings in this theme.
 
 ### Nearly finished
 
@@ -34,11 +34,11 @@ Now enter [`localhost:1313`](http://localhost:1313/) in the address bar of your 
 
 ## Contributing
 
-Did you find a bug or have an idea for a new feature? Feel free to use the [issue tracker](https://gitlab.com/computerfr33k/ranger-hugo-theme/issues) to let me know. Or make directly a [pull request](https://gitlab.com/computerfr33k/ranger-hugo-theme/merge_requests).
+Did you find a bug or have an idea for a new feature? Feel free to use the [issue tracker](https://github.com/computerfr33k/ranger-hugo-theme/issues) to let me know. Or make directly a [pull request](https://github.com/computerfr33k/ranger-hugo-theme/pulls).
 
 ## License
 
-This theme is released under The MIT License (MIT). For more information read the [License](https://gitlab.com/computerfr33k/ranger-hugo-theme/blob/master/LICENSE.md).
+This theme is released under The MIT License (MIT). For more information read the [License](https://github.com/computerfr33k/ranger-hugo-theme/blob/master/LICENSE.md).
 
 ## Acknowledgements
 
