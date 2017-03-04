@@ -1,0 +1,12 @@
+weight: 4
+plan: "Enterprise"
+price: '<sup class="currency">$</sup>125<small>/mo</small>'
+description: "Basic customer support for small business"
+pricing_info: "
+  <li>Unlimitted projects</li>
+  <li>Unlimitted Pages</li>
+  <li>Unlimitted Emails</li>
+  <li>Unlimitted Images</li>"
+button:
+  text: "Get Started"
+  url: "#"

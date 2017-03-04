@@ -1,0 +1,10 @@
+weight: 2
+animation: "fadeInRight"
+image: "images/screen-1-8-list.jpg"
+title: "We create beautiful web and mobile apps"
+description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+
+button:
+  enabled: true
+  text: "Learn More"
+  url: "#"

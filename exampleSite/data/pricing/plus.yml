@@ -1,0 +1,15 @@
+weight: 3
+popular:
+  enable: true
+  text: "Best value"
+plan: "Plus"
+price: '<sup class="currency">$</sup>79<small>/mo</small>'
+description: "Basic customer support for small business"
+pricing_info: "
+  <li>Unlimitted projects</li>
+  <li>100 Pages</li>
+  <li>100 Emails</li>
+  <li>700 Images</li>"
+button:
+  text: "Get Started"
+  url: "#"
