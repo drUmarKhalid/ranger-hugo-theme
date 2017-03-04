@@ -1,7 +1,7 @@
 languageCode = "en-us"
 title = "Ranger"
 baseURL = "https://computerfr33k.gitlab.io/ranger-hugo-theme"
-theme = "ranger"
+theme = "ranger-hugo-theme"
 
 [params]
   # Meta
@@ -16,7 +16,7 @@ theme = "ranger"
     pinterest = ""
     linkedin = ""
     instagram = ""
-    dribbble = ""
+    dribble = ""
   
   # Navigation
   [params.navigation]
