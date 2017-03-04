@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Ranger"
-baseURL = "http://example.com"
+baseURL = "https://computerfr33k.gitlab.io/ranger-hugo-theme"
 theme = "ranger"
 
 [params]

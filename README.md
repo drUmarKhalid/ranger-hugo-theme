@@ -1,6 +1,10 @@
 # Ranger Theme
 Ranger is a one page template with modern look and feel in mind based on the [original html5 theme](https://freehtml5.co/ranger-free-website-template-using-bootstrap/).
 
+# Example Site
+
+https://computerfr33k.gitlab.io/ranger-hugo-theme
+
 ## Installation
 
 Inside the folder of your Hugo site run:
