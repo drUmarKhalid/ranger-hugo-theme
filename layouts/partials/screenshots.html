@@ -1,3 +1,4 @@
+{{ if gt (len .Site.Data.screenshots) 0 }}
 	<div id="fh5co-product-screenshots" data-section="screenshots">
 
 		<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeIn">
@@ -11,8 +12,9 @@
 				</div>
 			</div>
 		<div class="owl-carousel-center">
-		{{ range .Site.Params.screenshots.item }}
+		{{ range sort .Site.Data.screenshots "weight" }}
             <div class="animate-box" data-animate-effect="fadeIn"><img src="{{ .image }}"></div>
 		{{ end }}
 		</div>
 	</div>
+	{{ end }}

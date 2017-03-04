@@ -19,6 +19,10 @@
                     {{ if .Site.Params.services.enable }}
                     <li><a href="#" data-nav-section="services"><span>{{ with .Site.Params.navigation.services }}{{ . | markdownify }}{{ end }}</span></a></li> 
                     {{ end }}
+
+                    {{ if .Site.Params.screenshots.enable }}
+                    <li><a href="#" data-nav-section="screenshots"><span>{{ with .Site.Params.navigation.screenshots }}{{ . | markdownify }}{{ end }}</span></a></li>
+                    {{ end }}
                     
                     {{ if .Site.Params.tour.enable }}
                     <li><a href="#" data-nav-section="tour"><span>{{ with .Site.Params.navigation.tour }}{{ . | markdownify }}{{ end }}</span></a></li> 
