@@ -21,7 +21,7 @@ After installing the Ranger Theme successfully it requires a just a few more ste
 
 ### The config file
 
-Take a look inside the [`exampleSite`]() folder of this theme. You'll find a file called [`config.toml`](). To use it, copy the [`config.toml`]() in the root folder of your Hugo site. Feel free to change the strings in this theme.
+Take a look inside the [`exampleSite`](https://gitlab.com/computerfr33k/ranger-hugo-theme/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](https://gitlab.com/computerfr33k/ranger-hugo-theme/blob/master/exampleSite/config.toml). To use it, copy the [`config.toml`](https://gitlab.com/computerfr33k/ranger-hugo-theme/blob/master/exampleSite/config.toml) in the root folder of your Hugo site. Feel free to change the strings in this theme.
 
 ### Nearly finished
 
