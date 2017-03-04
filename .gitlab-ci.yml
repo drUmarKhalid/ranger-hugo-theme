@@ -9,4 +9,4 @@ test:
   - hugo
   artifacts:
     paths:
-    - public
+    - exampleSite/public
